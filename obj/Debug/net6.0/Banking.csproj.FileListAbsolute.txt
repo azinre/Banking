@@ -1,0 +1,28 @@
+\\Mac\Home\Downloads\Azin-Rezaeian-Bonus Lab\Banking\bin\Debug\net6.0\Banking.exe
+\\Mac\Home\Downloads\Azin-Rezaeian-Bonus Lab\Banking\bin\Debug\net6.0\Banking.deps.json
+\\Mac\Home\Downloads\Azin-Rezaeian-Bonus Lab\Banking\bin\Debug\net6.0\Banking.runtimeconfig.json
+\\Mac\Home\Downloads\Azin-Rezaeian-Bonus Lab\Banking\bin\Debug\net6.0\Banking.dll
+\\Mac\Home\Downloads\Azin-Rezaeian-Bonus Lab\Banking\bin\Debug\net6.0\Banking.pdb
+\\Mac\Home\Downloads\Azin-Rezaeian-Bonus Lab\Banking\obj\Debug\net6.0\Banking.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\Azin-Rezaeian-Bonus Lab\Banking\obj\Debug\net6.0\Banking.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\Azin-Rezaeian-Bonus Lab\Banking\obj\Debug\net6.0\Banking.AssemblyInfo.cs
+\\Mac\Home\Downloads\Azin-Rezaeian-Bonus Lab\Banking\obj\Debug\net6.0\Banking.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Azin-Rezaeian-Bonus Lab\Banking\obj\Debug\net6.0\Banking.dll
+\\Mac\Home\Downloads\Azin-Rezaeian-Bonus Lab\Banking\obj\Debug\net6.0\refint\Banking.dll
+\\Mac\Home\Downloads\Azin-Rezaeian-Bonus Lab\Banking\obj\Debug\net6.0\Banking.pdb
+\\Mac\Home\Downloads\Azin-Rezaeian-Bonus Lab\Banking\obj\Debug\net6.0\Banking.genruntimeconfig.cache
+\\Mac\Home\Downloads\Azin-Rezaeian-Bonus Lab\Banking\obj\Debug\net6.0\ref\Banking.dll
+C:\Users\Azin\source\repos\azinre\Banking\bin\Debug\net6.0\Banking.exe
+C:\Users\Azin\Source\Repos\azinre\Banking\bin\Debug\net6.0\Banking.deps.json
+C:\Users\Azin\Source\Repos\azinre\Banking\bin\Debug\net6.0\Banking.runtimeconfig.json
+C:\Users\Azin\source\repos\azinre\Banking\bin\Debug\net6.0\Banking.dll
+C:\Users\Azin\source\repos\azinre\Banking\bin\Debug\net6.0\Banking.pdb
+C:\Users\Azin\source\repos\azinre\Banking\obj\Debug\net6.0\Banking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azin\source\repos\azinre\Banking\obj\Debug\net6.0\Banking.AssemblyInfoInputs.cache
+C:\Users\Azin\source\repos\azinre\Banking\obj\Debug\net6.0\Banking.AssemblyInfo.cs
+C:\Users\Azin\source\repos\azinre\Banking\obj\Debug\net6.0\Banking.csproj.CoreCompileInputs.cache
+C:\Users\Azin\source\repos\azinre\Banking\obj\Debug\net6.0\Banking.dll
+C:\Users\Azin\source\repos\azinre\Banking\obj\Debug\net6.0\refint\Banking.dll
+C:\Users\Azin\source\repos\azinre\Banking\obj\Debug\net6.0\Banking.pdb
+C:\Users\Azin\Source\Repos\azinre\Banking\obj\Debug\net6.0\Banking.genruntimeconfig.cache
+C:\Users\Azin\Source\Repos\azinre\Banking\obj\Debug\net6.0\ref\Banking.dll
